@@ -64,7 +64,7 @@ This project aims to predict **loan creditworthiness** — whether a borrower is
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/<your-username>/creditworthiness-prediction.git
+git clone https://github.com/bartan29/creditworthiness-prediction.git
 
 # 2. Navigate to the folder
 cd creditworthiness-prediction
