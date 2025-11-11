@@ -74,8 +74,11 @@ pip install -r requirements.txt
 
 # 4. Run the Jupyter Notebook
 jupyter notebook notebooks/creditworthiness_model.ipynb
+```
 
-👤 Author
+---
+
+## 👤 Author
 Muhammad Akbar Tantu
 Master of Commerce in Business Analytics & Cyber Security, UNSW Sydney
 📧 muhammadakbartantu@gmail.com
