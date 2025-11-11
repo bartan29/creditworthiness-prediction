@@ -80,6 +80,6 @@ jupyter notebook notebooks/creditworthiness_model.ipynb
 
 ## 👤 Author
 Muhammad Akbar Tantu
-Master of Commerce in Business Analytics & Cyber Security, UNSW Sydney
-📧 muhammadakbartantu@gmail.com
-🔗 https://www.linkedin.com/in/akbartantu/
+- Master of Commerce in Business Analytics & Cyber Security, UNSW Sydney
+- 📧 muhammadakbartantu@gmail.com
+- 🔗 https://www.linkedin.com/in/akbartantu/
