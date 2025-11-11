@@ -60,6 +60,21 @@ This project aims to predict **loan creditworthiness** — whether a borrower is
 
 ---
 
+## 🗂️ Project Structure
+```
+creditworthiness-prediction/
+│
+├── data/ # Raw and processed data
+├── notebooks/
+│ └── creditworthiness_model.ipynb
+├── models/ # Saved trained models
+├── results/ # Charts, metrics, and confusion matrices
+├── requirements.txt
+├── README.md
+└── LICENSE
+```
+---
+
 ## 📎 How to Run
 
 ```bash
@@ -83,3 +98,11 @@ Muhammad Akbar Tantu
 - Master of Commerce in Business Analytics & Cyber Security, UNSW Sydney
 - 📧 muhammadakbartantu@gmail.com
 - 🔗 https://www.linkedin.com/in/akbartantu/
+
+---
+
+## 📜 License
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
+© 2025 Muhammad Akbar
+
