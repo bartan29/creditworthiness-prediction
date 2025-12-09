@@ -39,7 +39,7 @@ This project aims to predict **loan creditworthiness** — whether a borrower is
 
 ## 📈 Results & Insights
 
-- **Best model:** KNN with precision ≈ `XX%`
+- **Best model:** KNN with precision ≈ `80%`
 - The model effectively identifies potential defaulters with minimal false negatives.
 - Increasing decision threshold improved risk prediction for Class 1 (Default).
 - Business implication: banks can reduce loan losses by prioritizing applicants with higher predicted repayment probability.
